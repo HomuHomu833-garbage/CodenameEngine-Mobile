@@ -237,7 +237,7 @@
 	<!-- _________________________________ Mobile stuff _______________________________ -->
 
 	<!-- Do whatever you want I'm tired uninstall and install everytime -->
-	<certificate path="key.keystore" password="codenameengine" alias="cneport" alias-password="codenameengine" if="android" unless="debug" />
+	<!-- <certificate path="key.keystore" password="codenameengine" alias="cneport" alias-password="codenameengine" if="android" unless="debug" /> -->
 
 	<haxedef name="SHARE_MOBILE_FILES" if="ios" />
 
